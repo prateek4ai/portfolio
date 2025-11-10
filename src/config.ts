@@ -1,7 +1,7 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
-
-export const SITE_TITLE = 'Astrofy | Personal Portfolio Website Template';
-export const SITE_DESCRIPTION = 'Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.';
+// src/config.ts// src/config.ts
+export const SITE_TITLE = 'Prateek | AI Engineer Portfolio';
+export const SITE_DESCRIPTION = 'Aspiring AI engineer with a strong foundation in Electronics and Communication Engineering, seeking opportunities to apply my skills in machine learning, deep learning, and AI ethics to create innovative and impactful solutions.';
 export const GENERATE_SLUG_FROM_TITLE = true
 export const TRANSITION_API = true
